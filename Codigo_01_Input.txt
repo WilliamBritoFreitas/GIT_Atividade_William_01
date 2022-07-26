@@ -1,0 +1,6 @@
+Aqui estão as primeiras linhas de códigos a serem executadas
+
+1) Limpar a tela
+2) Peguntar o nome do usuário
+3) Peguntar a data de Nascimento do usuário
+4) Imprimir idade do usuário
